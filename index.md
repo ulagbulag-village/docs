@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## UlagBulag Village
 
-You can use the [editor on GitHub](https://github.com/ulagbulag-village/docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Our company provides innovative solutions by dividing and conquering the entire data pipeline from Bare-metal to FaaS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Open Source: In many cases, our solutions are open sourced and available for free.
+* Blockchain: If you are in a situation where it is difficult to build and maintain some parts of the data pipeline, you can take advantage of the powerful blockchain-based decentralized data pipeline solutions.
+* Technical support: If special equipment and solutions are required, separate technical support is available.
 
-### Markdown
+### Open Source Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ulagbulag-village/docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [AVUSEN](https://github.com/ulagbulag-village/avusen): AVUSEN metadata
+1. [IPDIS](https://github.com/ulagbulag-village/ipdis): InterPlanetary **Dictionary Server**
+1. [IPFIS](https://github.com/ulagbulag-village/ipfis): InterPlanetary **Function** Interconnection Service
+1. [IPWIS](https://github.com/ulagbulag-village/ipwis): InterPlanetary **WASI** Interpretation Service
+1. [IPNIS](https://github.com/ulagbulag-village/ipnis): InterPlanetary **Neural** Interpretation Service
