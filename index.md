@@ -1,6 +1,9 @@
 ---
 layout: home
 permalink: /
+title: Home
+has_children: false
+nav_order: 0
 ---
 
 ## UlagBulag Village
