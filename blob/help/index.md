@@ -15,7 +15,7 @@ If you need active help with domain-specific issues, you can request [paid suppo
 
 We keep all our codebases and repositories on GitHub. You can check this out at the GitHub organization at:
 
-* **UlagBulag Village**: [https://ulagbulag.io](https://ulagbulag.io)
+* **UlagBulag Village**: [https://github.com/ulagbulag-village](https://github.com/ulagbulag-village)
 
 ## Code of Conduct
 
