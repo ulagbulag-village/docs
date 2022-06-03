@@ -16,8 +16,15 @@ Our company provides innovative solutions by dividing and conquering the entire 
 
 ### Open-source Projects
 
-1. [AVUSEN](https://github.com/ulagbulag-village/avusen): AVUSEN metadata
+1. [IPI](https://github.com/ulagbulag-village/ipi): InterPlanetary **Interface**
+1. [IPIS](https://github.com/ulagbulag-village/ipis): InterPlanetary **Interface Service**
 1. [IPDIS](https://github.com/ulagbulag-village/ipdis): InterPlanetary **Dictionary Server**
 1. [IPFIS](https://github.com/ulagbulag-village/ipfis): InterPlanetary **Function** Interconnection Service
-1. [IPWIS](https://github.com/ulagbulag-village/ipwis): InterPlanetary **WASI** Interpretation Service
 1. [IPNIS](https://github.com/ulagbulag-village/ipnis): InterPlanetary **Neural** Interpretation Service
+1. [IPQIS](https://github.com/ulagbulag-village/ipqis): InterPlanetary **Queryable** Interactive Service
+1. [IPSIS](https://github.com/ulagbulag-village/ipsis): InterPlanetary **Storage** Integration Service
+1. [IPWIS](https://github.com/ulagbulag-village/ipwis): InterPlanetary **WASI** Interpretation Service
+
+#### Associated Projects
+
+1. [NetAI Cloud](https://github.com/ulagbulag-village/netai-cloud): A library/runtime that supports Automated Multi-site Deployment of Bare-metal Cloud-native Edge Clusters. It can used as a resource manager in `IPWIS`.
