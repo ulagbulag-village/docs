@@ -6,10 +6,7 @@ Please visit https://ulagbulag.io/
 
 ```bash
 # Install Ruby
-#sudo apt install ruby-full
-
-# Install bundler
-#gem install bundler
+#sudo dnf install ruby-devel rubygem-bundler
 
 # Install the Ruby Gem
 bundle install
