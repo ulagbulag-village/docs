@@ -27,4 +27,4 @@ Our company provides innovative solutions by dividing and conquering the entire 
 
 #### Associated Projects
 
-1. [NetAI Cloud](https://github.com/ulagbulag-village/netai-cloud): A library/runtime that supports Automated Multi-site Deployment of Bare-metal Cloud-native Edge Clusters. It can used as a resource manager in `IPWIS`.
+1. [Noah Cloud](https://github.com/ulagbulag-village/noah-cloud): A library/runtime that supports Automated Multi-site Deployment of Bare-metal Cloud-native Edge Clusters. It can used as a resource manager in `IPWIS`.
